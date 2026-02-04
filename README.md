@@ -23,6 +23,12 @@ All activities were conducted in isolated lab environments for educational and d
 - Study malware behavior to enhance detection and mitigation methods
 - Map attack techniques to security controls and MITRE ATT&CK framework
 
+## Skills Demonstrated
+- Information Gathering & Reconnaissance
+- Network Traffic Analysis (Wireshark)
+- Windows Security & Exploit Awareness
+- Threat Analysis & Defensive Techniques
+
 ## Ethical Statement
 All exercises were performed with proper authorization in controlled environments.
 This repository is intended strictly for educational, defensive, and research purposes.
